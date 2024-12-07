@@ -2,7 +2,7 @@ from discord import *
 from PIL import Image
 import aiohttp, asyncio, sys, keyboard, pyautogui, threading, time, pygetwindow, json, pytesseract, ahk, re, win32gui, win32ui, win32con, math, discord
 
-webhook_link = 'https://discord.com/api/webhooks/1312025418802528298/g_B1SZ7kgdcWjdz2eHSY3v4I3EKf54e4JwVQyd9ORvP9WE5YQd5EuyTONOgN-rnWJIwA'
+webhook_link = ''
 screenshot = sys.path[0] + "\\images\\screenshot.png"
 start_pic = sys.path[0] + "\\images\\start.png"
 end_pic = sys.path[0] + "\\images\\end.png"
